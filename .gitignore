@@ -6,5 +6,6 @@ FE/build/
 # Backend
 BE/node_modules/
 BE/.env
-BE/venv/
 BE/dist/
+
+venv/
